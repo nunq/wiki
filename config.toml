@@ -21,15 +21,11 @@ enableGitInfo = true
 
 [menu]
 # [[menu.before]]
-[[menu.after]]
-  name = "wiki src, theme src, my github, nunq.net"
-  url = "https://github.com/alex-shpak/hugo-book"
-  weight = 10
 
 [[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/hugo-book/"
-  weight = 20
+  name = "nunq.net"
+  url = "https://nunq.net"
+  weight = 10
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
