@@ -1,3 +1,5 @@
+# git repo hosting
+
 ## github
 * pro: gets the job done!!
 * pro: people actually find your stuff (organically) with tags, etc

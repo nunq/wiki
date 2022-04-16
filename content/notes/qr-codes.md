@@ -1,3 +1,5 @@
+# qr codes
+
 how to encode various things into qr codes
 * plaintext: just plain text
 * uris: uri with scheme, address, etc

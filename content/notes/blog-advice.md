@@ -1,4 +1,4 @@
-tips for starting a blog
+# blog advice
 
 ## make it readable
 * please dont use white text on a black background. it's not pretty and horrible to read
@@ -11,4 +11,4 @@ tips for starting a blog
 * have an rss feed, it should be full text
 
 ## misc
-* i dont like [this terminal-inspired hugo theme](https://github.com/panr/hugo-theme-terminal). yes it looks cool, but the readability is ass. im sorry, use a different fonts plsss 
+* i dont like [this terminal-inspired hugo theme](https://github.com/panr/hugo-theme-terminal). yes it looks cool, but the readability is ass. im sorry, use a different fonts plsss

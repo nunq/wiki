@@ -1,3 +1,5 @@
+# inoreader tricks
+
 inoreader is my rss/feed/content reader of choice because it's literally the best. period.
 
 ## content views

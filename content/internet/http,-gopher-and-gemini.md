@@ -1,3 +1,5 @@
+# http, gopher and gemini
+
 this thought is still in progress
 
 * i understand why people might not want to use http for their special little blog site or something, because one could argue that it discloses too much information (such as user agent, etc) or is bloated (?). or they just want a thing to experiment with which is totally fine

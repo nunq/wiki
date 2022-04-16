@@ -1,3 +1,5 @@
+# comparison of wiki software
+
 * dokuwiki is stable, can be customized with plugins. but the syntax is weird and i'd have to learn that. + for no database
 * bookstack looks somewhat pretty but too much like material ui (i dont like material ui, especially on desktop/web). the hierarchy seems arbitrary and i dont like it.
 * wiki.js is material ui garbage

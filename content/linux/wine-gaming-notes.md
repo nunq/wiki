@@ -1,7 +1,3 @@
----
-title: wine gaming notes
----
-
 # wine gaming notes
 
 notes on running certain windows games using wine.

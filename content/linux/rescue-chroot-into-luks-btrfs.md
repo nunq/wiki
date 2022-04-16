@@ -1,3 +1,5 @@
+# luks btrfs rescue chroot
+
 * have archiso usb stick, boot it
 * `luksOpen /dev/sda... /dev/mapper/luks`
 * `mount -o subvol=@SUBVOL /dev/mapper/luks /mountpoint`
