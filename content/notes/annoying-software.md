@@ -1,4 +1,4 @@
-# corporate fails
+# annoying software
 
 * from oct to circa dec 2021: whatsapp android: voice msg button had to be tapped twice after first sending a normal text
 * since late 2021: whatsapp android: in-app camera is glitchy and sometimes it doesnt 'keep' the photo
