@@ -4,7 +4,10 @@ title: start
 
 welcome to my wiki :)
 
+as of now it mostly contains guides.
 
-* [wiki source](https://github.com/hyphenc/wiki)
-* [theme source](https://github.com/hyphenc/cleanwiki)
+links:
+* my main site [nunq.net](https://nunq.net)
+* [source code](https://github.com/hyphenc/wiki) for this wiki
+* [source code](https://github.com/hyphenc/cleanwiki) for the theme this wiki uses
 
