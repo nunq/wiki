@@ -20,12 +20,12 @@ enableGitInfo = true
 
 
 [menu]
-# [[menu.before]]
-
-[[menu.after]]
-  name = "nunq.net"
-  url = "https://nunq.net"
-  weight = 10
+#[[menu.before]]
+#
+#[[menu.after]]
+#  name = "nunq.net"
+#  url = "https://nunq.net"
+#  weight = 10
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
