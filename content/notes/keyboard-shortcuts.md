@@ -60,3 +60,7 @@ chrome:
 * `arrowkeys left right` jump 5 secs
 * `shift n` next video in playlist
 * `,` and `.` step through frames
+
+### nautilus
+* `ctrl s` select files based on regex
+
