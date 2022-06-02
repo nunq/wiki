@@ -4,7 +4,7 @@
 
 for a simple project directory structure
 
-```java
+```make
 SRCDIR = ./src
 DOCDIR = ./doc
 BINDIR = ./bin
