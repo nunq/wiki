@@ -1,6 +1,7 @@
 # makefiles
 
 ## java
+the makefiles for the things i code are usually quite simple but because i had to regularly run java programs for uni i wrote one for that, took quite a while until it worked but it finally did so here it is:
 
 for a simple project directory structure
 

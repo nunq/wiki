@@ -26,3 +26,6 @@ i like the barebones feel of cgit, but gitea looks interesting too.
 whatever you do dont use gitlab
 
 do people still use bitbucket? is that still a thing?
+
+cgit-pink looks promising but lets see...
+

@@ -1,6 +1,6 @@
 # export pocketcasts starred episodes
 
-the pocketcasts export your data user experience was terrible when i tried a few months ago.
+the pocketcasts export your data user experience was terrible when i tried it a few months ago.
 
 this is the only way i found and it cost me 3 euros. if pocketcasts was my product i'd be embarassed.
 

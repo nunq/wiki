@@ -8,8 +8,6 @@
 * tiddlywiki manages to looks worse than material ui and has a weird name? like huh??
 * xwiki is java. case closed
 
-in conclusion: there is no _good_ wiki software at the moment for me.
-
 what i need:
 * no database, file based
 * markdown based (idc about wysiwyg editor)
@@ -24,4 +22,4 @@ with php > nodejs.
 
 also i refuse to self host nodejs software on my server.
 
-thus this github wiki is a compromise
+update: this is now on netlify with hugo, despite me complaining about hugo in a blog post from some time ago. it's just too easy: forked a theme, ripped out all the parts i didn't need and voilà. a custom-built system with search and all would've cost too much time.

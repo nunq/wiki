@@ -11,5 +11,5 @@
 * have an rss feed, it should be full text
 
 ## misc
-* i dont like [this terminal-inspired hugo theme](https://github.com/panr/hugo-theme-terminal). yes it looks cool, but the readability is ass. im sorry, use a different fonts plsss
+* i dont like [this terminal-inspired hugo theme](https://github.com/panr/hugo-theme-terminal). yes it looks cool, but the readability is bad. im sorry, use a different font plsss
 * please dont use medium. just dont. if you want a free hosted thing just make a tumblr, everything is better than medium
