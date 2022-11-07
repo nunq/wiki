@@ -10,6 +10,27 @@ probably applies to vim as well but idk.
 ## copy stuff
 * copy word under cursor: `yaw`
 
+## other cmds
+* r replace
+* O new line above
+* o new line below
+* I insert at beginning
+* A append
+* d delete
+* x del char
+* diX delete inner X
+* V select line
+* n next match
+* N previous match
+* J join lines
+* 0 cursor to start
+* $ cursor to end
+* 
+* dw delete word
+* d$ del till end of line
+* 
+* U undo all for current line
+* P paste in line above
 
 ## etc
 nautilus: open file in neovim with double click.
