@@ -2,7 +2,11 @@
 
 probably applies to vim as well but idk.
 
-improve the usability of a default no config (n)vim instantly with this oneliner: `:set number | :colorscheme desert | :set mouse=a`
+improve the usability of a default no config (n)vim instantly with this oneliner: 
+```vim
+:set number | :colorscheme desert | :set mouse=a
+```
+
 * enables line numbering
 * sets an ok (default!) colorscheme
 * enables the mouse, scrolling and other things
