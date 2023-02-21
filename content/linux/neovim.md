@@ -48,3 +48,4 @@ change `Terminal=true` to `Terminal=false` in `/usr/share/applications/nvim.desk
 this is because nautilus sees `Terminal=true` and tries to spawn nvim in xterm. i dont know why this seems to be hardcoded?
 alternatively you should be able to symlink xterm to your terminal emulator, i.e. for kitty `sudo ln -sf /usr/bin/kitty /usr/local/bin/xterm` although this doesnt seem to work for me
 
+because neovim uses netrw it can open urls: `nvim "http://example.com/"` (wgets the html to /tmp and opens it)
