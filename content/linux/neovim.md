@@ -34,10 +34,8 @@ improve the usability of a default no config (n)vim instantly with this oneliner
 * J join lines
 * 0 cursor to start
 * $ cursor to end
-* 
 * dw delete word
 * d$ del till end of line
-* 
 * U undo all for current line
 * P paste in line above
 
