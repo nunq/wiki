@@ -5,3 +5,7 @@ networking:
 * iftop: all traffic displayed like top
 * ngrep: grep traffic on a port etc
 
+system:
+* smem: break down memory usage by process
+
+
