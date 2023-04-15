@@ -3,7 +3,7 @@
 0. enable developer options
 1. enable usb debugging
 2. `adb devices` (you need android sdk platform tools)
-3. adb shell cmd package uninstall -k --user 0 com.package.name`
+3. `adb shell cmd package uninstall -k --user 0 com.package.name`
 
 (the `--user 0` flag allows us to uninstall pre-installed apps, most of the time)
 
@@ -44,3 +44,4 @@ adb shell cmd package uninstall -k --user 0 com.miui.cloudbackup
 adb shell cmd package uninstall -k --user 0 com.miui.cloudservice
 adb shell cmd package uninstall -k --user 0 com.miui.micloudsync
 adb shell cmd package uninstall -k --user 0 com.miui.videoplayer
+```
