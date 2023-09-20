@@ -62,7 +62,9 @@ mapfile -t results <<< $(curl domain.tld | grep | sed | sort)
 
 ## bashisms
 
-until service restart loop
-
-TODO
+```sh
+until [run this command]; do
+  [run this if command crashes]
+done # command is restarted after running inner body
+```
 

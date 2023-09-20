@@ -53,6 +53,9 @@ chrome:
 * `ctrl numbers` switch to tab N
 * `ctrl tab` switch tabs
 
+firefox:
+* `ctrl shift e` directly open network tab in devtools
+
 ### youtube
 * `j`, `l` jump 10/15 secs backwards/forwards
 * `k`, `space` play pause
