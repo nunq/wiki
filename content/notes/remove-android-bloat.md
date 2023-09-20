@@ -45,3 +45,20 @@ adb shell cmd package uninstall -k --user 0 com.miui.cloudservice
 adb shell cmd package uninstall -k --user 0 com.miui.micloudsync
 adb shell cmd package uninstall -k --user 0 com.miui.videoplayer
 ```
+
+for xiaomi mi pad 6:
+
+```sh
+adb shell cmd package uninstall -k --user 0 com.android.chrome
+adb shell cmd package uninstall -k --user 0 com.miui.analytics
+adb shell cmd package uninstall -k --user 0 com.google.android.youtube
+adb shell cmd package uninstall -k --user 0 com.google.android.gm
+adb shell cmd package uninstall -k --user 0 com.google.android.apps.subscriptions.red
+adb shell cmd package uninstall -k --user 0 com.google.android.videos
+adb shell cmd package uninstall -k --user 0 com.google.android.apps.tachyon
+adb shell cmd package uninstall -k --user 0 com.google.android.apps.messaging
+adb shell cmd package uninstall -k --user 0 com.mi.globalbrowser
+adb shell cmd package uninstall -k --user 0 com.miui.videoplayer
+adb shell cmd package uninstall -k --user 0 com.google.android.apps.youtube.music
+adb shell cmd package uninstall -k --user 0 com.google.android.apps.photos
+```
