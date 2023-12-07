@@ -1,3 +1,5 @@
+# bootstrap new laptop
+
 (from 8th to 12th gen intel i did this)
 
 0. (boot archiso usb stick)
