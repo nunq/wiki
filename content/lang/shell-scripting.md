@@ -62,6 +62,8 @@ mapfile -t results <<< $(curl domain.tld | grep | sed | sort)
 
 ## bashisms
 
+a note about bash aliases: aliases are eval'd at starting time of the shell and are constant throughout that session. if you want something dynamic, use shell functions.
+
 ```sh
 until [run this command]; do
   [run this if command crashes]
