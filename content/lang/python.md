@@ -2,7 +2,7 @@
 
 ## creating a venv for a python version you dont have locally
 
-i.e. for python 3.13
+for when you cant fully use uv's venvs. for python 3.13.
 
 ```sh
 uv python pin python3.13
